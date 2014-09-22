@@ -1,0 +1,964 @@
+SURVEY DATA USED IN CHAPTER 4 OF "FRAMEWORKS FOR MODELING COGNITION AND DECISIONS IN INSTITUTIONAL ENVIRONMENTS. A DATA-DRIVEN APPROACH"
+
+
+=======================================================
+DESCRIPTION OF THE VARIABLES
+=======================================================
+
+
+
+================================================================================
+
+    id = 'IDENTIFIER FOR EACH RESPONDENT'
+
+---------------------------------------------------------------------------------
+
+    Measurement: nominal
+
+
+================================================================================
+
+   poblacion 'Population size of the judge's judicial district'
+
+--------------------------------------------------------------------------------
+
+    Measurement: interval
+
+
+================================================================================
+
+   densidad 'Population density of the judge's judicial district'
+
+--------------------------------------------------------------------------------
+
+    Measurement: interval
+
+
+================================================================================
+
+   juzg.unico 'Is the district a single-court district?'
+
+--------------------------------------------------------------------------------
+
+    Measurement: interval
+
+   Values and labels
+   
+   0   'no'
+   1   'yes'
+   
+
+
+================================================================================
+
+   v008 'Any legal profession before becoming judge'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+           1   'no'    
+           2   'yes'   
+           3   'n/a'   
+
+================================================================================
+
+   v016 'Ha realizado postgrado'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+        1   'yes'      
+        2   'no'       
+        3   'n/a'      
+        4   'absent'   
+
+
+================================================================================
+
+   v028 'Pertenece a asociación jueces'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+           1   'yes'   
+           2   'no'    
+           3   'n/a'   
+
+================================================================================
+
+   v029 'Asociación de jueces a la que pertenece'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+                   Values and labels   
+                                                     
+   1   'APM'                           
+   2   'Jueces Democracia.'            
+   3   'Asoc.J.Fco Vitoria'            
+   4   'Asoc.J.Otras'                  
+   5   'N/A'                           
+   6   'absent'                        
+   7   'Foro Judicial Independiente'   
+
+================================================================================
+
+   v066 'Comenta asunto judicial'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+    1   'frequently'   
+    2   'sometimes'    
+    3   'never'        
+    4   'n/a'          
+   NA M                
+
+================================================================================
+
+   v112 'Valore relaciones con Ministerio Fiscal'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+      Values and labels    
+                                        
+    1   'very negative'    
+    2   'negative'         
+    3   'regular'         
+    4   'good'            
+    5   'very good'       
+    6   'n/a'             
+   NA M                   
+
+================================================================================
+
+   v113 'Valore relaciones con Abogados'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+      Values and labels   
+                                        
+    1   'very negative'   
+    2   'negative'        
+    3   'regular'         
+    4   'good'            
+    5   'very good'       
+    6   'n/a'             
+        (unlab.vld.)      
+   NA M                   
+
+================================================================================
+
+   v114 'Valore relaciones con Secretarios Judiciales'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+      Values and labels    
+                                        
+    1   'very negative'    
+    2   'negative'         
+    3   'regular'          
+    4   'good'            
+    5   'very good'       
+    6   'n/a'             
+        (unlab.vld.)      
+   NA M                   
+
+================================================================================
+
+   v115 'Valore relaciones con resto de Personal juzgado'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+      Values and labels   
+                                        
+    1   'very negative'   
+    2   'negative'        
+    3   'regular'         
+    4   'good'            
+    5   'very good'       
+    6   'n/a'             
+   NA M                   
+
+================================================================================
+
+   v118 'Frecuencia contacto con compañeros promoción'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+        Values and labels   
+                                          
+    1   'sporadically'      
+    2   'sometimes'         
+    3   'regularly'         
+    4   'frequently'        
+    5   'very frequently'   
+    6   'n/a'               
+    7   'absent'            
+   NA M                     
+
+================================================================================
+
+   v119 'Contacto con jueces o magistrados otras promociones'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+           1   'yes'   
+           2   'no'    
+           3   'n/a'   
+          NA M         
+
+================================================================================
+
+   v120 'Frecuencia contacto con jueces otras promociones'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+        Values and labels  
+                                          
+    1   'sporadically'     
+    2   'sometimes'        
+    3   'regularly'        
+    4   'frequently'       
+    5   'very frequently'  
+    6   'n/a'              
+    7   'absent'           
+   NA M                    
+
+================================================================================
+
+   v121 'Profesión amigo 1'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+          Values and labels   
+                                            
+    1   'judge'               
+    2   'other legal prof.'   
+    3   'liberal prof.'       
+    4   'militar'             
+    5   'entrepeneur'         
+    6   'retailer'            
+    7   'public servant'      
+    8   'farmer'              
+    9   'worker'              
+   10   'employee'            
+   11   'housekeeper'         
+   12   'other professions'   
+   13   'absent'              
+   NA M                       
+
+================================================================================
+
+   v122 'Profesión amigo 2'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+          Values and labels  
+                             
+    1   'judge'              
+    2   'other legal prof.'  
+    3   'liberal prof.'      
+    4   'militar'            
+    5   'entrepeneur'        
+    6   'retailer'           
+    7   'public servant'     
+    8   'farmer'             
+    9   'worker'             
+   10   'employee'           
+   11   'housekeeper'        
+   12   'other professions'  
+   13   'absent'             
+   NA M                      
+
+================================================================================
+
+   v123 'Profesión amigo 3'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+          Values and labels   
+                                            
+    1   'judge'               
+    2   'other legal prof.'   
+    3   'liberal prof.'       
+    4   'militar'             
+    5   'entrepeneur'         
+    6   'retailer'            
+    7   'public servant'      
+    8   'farmer'              
+    9   'worker'              
+   10   'employee'            
+   11   'housekeeper'         
+   12   'other professions'   
+   13   'absent'              
+   NA M                       
+
+================================================================================
+
+   v135 'Rel. institucionales con Cuerpo Docente EJB'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v136 'Rel. institucionales con Colegio Abogados part. jud.'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v137 'Rel. institucionales con Funcionarios prisiones'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels  
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v138 'Rel. institucionales con Policía Nacional'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'          
+    4   'regular'       
+    5   'good'         
+    6   'very good'  
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v139 'Rel. institucionales con Guardia Civil'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'      
+    5   'good'         
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v140 'Rel. institucionales con Policía Autonómica'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'        
+    5   'good'          
+    6   'very good'     
+    7   'n/a'            
+   NA M                  
+
+================================================================================
+
+   v141 'Rel. institucionales con Policía Local'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'   
+    2   'very bad'       
+    3   'bad'          
+    4   'regular'      
+    5   'good'         
+    6   'very good'    
+    7   'n/a'          
+   NA M                
+
+================================================================================
+
+   v142 'Rel. institucionales con Médicos forenses'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v143 'Rel. institucionales con Psiquiatras'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'  
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v144 'Rel. institucionales con Educadores centros penit.'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'  
+    2   'very bad'      
+    3   'bad'            
+    4   'regular'        
+    5   'good'           
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v145 'Rel. institucionales con Asistentes sociales'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'          
+    4   'regular'      
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v146 'Rel. institucionales con Intérpretes extranjeros'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'            
+   NA M                  
+================================================================================
+
+   v147 'Rel. institucionales con Intérpretes autonómicos'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation' 
+    2   'very bad'       
+    3   'bad'            
+    4   'regular'       
+    5   'good'          
+    6   'very good'     
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v148 'Rel. institucionales con Otros peritos'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'      
+    7   'n/a'            
+   NA M                 
+
+================================================================================
+
+   v149 'Rel. institucionales con Organismos municipales'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'  
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'      
+    5   'good'         
+    6   'very good'     
+    7   'n/a'           
+   NA M                
+
+================================================================================
+
+   v150 'Rel. institucionales con Organismos autonómicos'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'   
+    2   'very bad'      
+    3   'bad'            
+    4   'regular'       
+    5   'good'         
+    6   'very good'     
+    7   'n/a'           
+   NA M               
+
+================================================================================
+
+   v151 'Colabora con Centros de desintoxicación'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'  
+    2   'very bad'      
+    3   'bad'            
+    4   'regular'        
+    5   'good'           
+    6   'very good'      
+    7   'n/a'           
+   NA M                  
+
+================================================================================
+
+   v152 'Colabora con Centros acogida mujeres'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation'  
+    2   'very bad'       
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'      
+    7   'n/a'           
+   NA M                  
+
+================================================================================
+
+   v153 'Colabora con Centros acogida inmigrantes'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels    
+                                      
+    1   'no relation' 
+    2   'very bad'       
+    3   'bad'           
+    4   'regular'       
+    5   'good'          
+    6   'very good'      
+    7   'n/a'           
+   NA M                 
+
+================================================================================
+
+   v154 'Colabora con ONGs'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+    Values and labels   
+                                      
+    1   'no relation'  
+    2   'very bad'      
+    3   'bad'           
+    4   'regular'        
+    5   'good'          
+    6   'very good'      
+    7   'n/a'           
+   NA M                  
+
+================================================================================
+
+   v191 'Suele llevar trabajo a casa'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels    
+                                     
+           1   'yes' 
+           2   'no'    
+           3   'n/a'   
+          NA M         
+
+================================================================================
+
+   v192 'Suele trabajar fines de semana'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+           1   'yes'   
+           2   'no'    
+           3   'n/a'    
+          NA M         
+
+================================================================================
+
+   v193 'Número medio de horas extra'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+      Values and labels   
+                                        
+    1   '<=10'            
+    2   '>10 and <=20'   
+    3   '>20 and <=30'    
+    4   '>30 and <=40'   
+    5   '>40 and <=50'    
+    6   'not specified'   
+    7   'absent'          
+   NA M                   
+
+
+================================================================================
+
+   v195 'Evalúe la presión de condiciones de trabajo'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels   
+                                     
+     1   'very low'    
+     2   'low'         
+     3   'regular'     
+     4   'high'        
+     5   'very high'   
+     6   'n/a'         
+    NA M               
+
+================================================================================
+
+   v197 'Sexo'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+   Values and labels    
+                                     
+        1   'male'     
+        2   'female'   
+        3   'absent'   
+
+================================================================================
+
+   v198 'Estado civil'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+           Values and labels   
+                                             
+    1   'married'              
+    2   'single'               
+    3   'divorced/separated'   
+    4   'live together'        
+    5   'n/a'                  
+   NA M                        
+
+================================================================================
+
+   v199 'N. de hijos'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: interval
+
+
+================================================================================
+
+   v202 'Profesión del padre'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+          Values and labels   
+                                            
+    1   'judge'                
+    2   'other legal prof.'  
+    3   'liberal prof.'       
+    4   'militar'             
+    5   'entrepeneur'         
+    6   'retailer'            
+    7   'public servant'      
+    8   'farmer'              
+    9   'worker'              
+   10   'employee'           
+   11   'housekeeper'         
+   12   'other professions' 
+   13   'absent'             
+   NA M                      
+
+================================================================================
+
+   v203 'Profesión de la madre'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+          Values and labels  
+                                            
+    1   'judge'               
+    2   'other legal prof.'   
+    3   'liberal prof.'      
+    4   'militar'             
+    5   'entrepeneur'         
+    6   'retailer'            
+    7   'public servant'      
+    8   'farmer'              
+    9   'worker'              
+   10   'employee'          
+   11   'housekeeper'        
+   12   'other professions'   
+   13   'absent'              
+   NA M                        
+
+================================================================================
+
+   v204 'Profesión de la pareja'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+          Values and labels   
+                                            
+    1   'judge'              
+    2   'other legal prof.'   
+    3   'liberal prof.'       
+    4   'militar'             
+    5   'entrepeneur'         
+    6   'retailer'            
+    7   'public servant'       
+    8   'farmer'              
+    9   'worker'              
+   10   'employee'           
+   11   'housekeeper'        
+   12   'other professions'   
+   13   'absent'              
+   NA M                       
+
+================================================================================
+
+   v214 'Grado satisfacción'
+
+--------------------------------------------------------------------------------
+
+   Storage mode: double
+   Measurement: nominal
+
+            Values and labels    
+                                              
+    1   'Nada satisfecho'       
+    2   'Poco satisfecho'        
+    3   'Bastante satisfecho'   
+    4   'Satisfecho'           
+    5   'Muy satisfecho'        
+    6   'n.a'                    
+   NA M                          
+
+
+================================================================================
+
+   years.judge 'Years spent from Law degree until becoming a judge'
+
+--------------------------------------------------------------------------------
+Measurement: interval
