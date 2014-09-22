@@ -9,7 +9,7 @@ Approach<em>.
 
 The publisher's website for the book is: http://www.springer.com/law/international/book/978-94-017-9426-8
 
-Contents:
+Contents of the directory:
 
 	data/
 	#All the data needed for the analyses carried out in the book
