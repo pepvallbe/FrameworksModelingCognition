@@ -1,8 +1,11 @@
 Modeling Cognition and Decisions in Institutional Environments
 ====================================
 
-Replication materials for the book "Frameworks for Modeling Cognition
-and Decisions in Institutional Environments. A Data-driven Approach"
+Replication materials for the book:
+
+Joan-Josep Vallbé (2015): <i>Frameworks for Modeling Cognition
+and Decisions in Institutional Environments. A Data-driven
+Approach<i>. Springer-Verlag.
 
 Contents:
 
