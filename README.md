@@ -5,7 +5,7 @@ Replication materials for the book:
 
 Joan-Josep Vallbé (2015): <em>Frameworks for Modeling Cognition
 and Decisions in Institutional Environments. A Data-driven
-Approach<em>. Springer-Verlag.
+Approach<em>.
 
 Contents:
 
