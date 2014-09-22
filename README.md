@@ -7,6 +7,8 @@ Joan-Josep Vallbé (2015): <em>Frameworks for Modeling Cognition
 and Decisions in Institutional Environments. A Data-driven
 Approach<em>.
 
+The publisher's website for the book is: http://www.springer.com/law/international/book/978-94-017-9426-8
+
 Contents:
 
 	data/
